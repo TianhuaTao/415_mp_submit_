@@ -1,0 +1,13 @@
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+Mac/
+.vscode/
+.vs/
+*.suo
+*.user
+*.log
+*.bak
+*.tmp
